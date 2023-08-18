@@ -1,0 +1,40 @@
+.nav_link
+{
+    width: 1100PX;
+    margin: auto;
+    height: 70px;
+    background-color: blueviolet;
+    color: white;
+    /* display: flex; */
+    /* justify-items: center; */
+}
+.linklogo{
+    float: left;
+    margin-left: 20px;
+}
+.linkabout,.linkcontact,.linkproject{
+    float: right;
+    margin-right: 20px;
+}
+.linkproject:hover{
+    color: rgb(245, 59, 74);
+    transition: 0.25s;
+    border-bottom: 2px solid  rgb(245, 59, 74);
+}
+.linkcontact:hover{
+    color: rgb(245, 59, 74);
+    transition: 0.25s;
+    border-bottom: 2px solid  rgb(245, 59, 74);
+}
+.linkabout:hover{
+    color: rgb(245, 59, 74);
+    transition: 0.25s;
+    border-bottom: 2px solid  rgb(245, 59, 74);
+}
+.linklogo :hover{
+    color: rgb(245, 59, 74);
+    transition: 0.25s;
+    border-bottom: 2px solid  rgb(245, 59, 74);
+}
+
+
