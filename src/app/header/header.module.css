@@ -3,8 +3,10 @@
     width: 1100PX;
     margin: auto;
     height: 70px;
-    background-color: blueviolet;
+    background-color: rgb(15, 15, 15);
     color: white;
+    position: fixed;
+    z-index: 0;
     /* display: flex; */
     /* justify-items: center; */
 }
@@ -17,7 +19,7 @@
     margin-right: 20px;
 }
 .linkproject:hover{
-    color: rgb(245, 59, 74);
+    color: rgb(247, 88, 101);
     transition: 0.25s;
     border-bottom: 2px solid  rgb(245, 59, 74);
 }
