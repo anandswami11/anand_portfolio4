@@ -5,8 +5,8 @@
     height: 70px;
     background-color: rgb(15, 15, 15);
     color: white;
-    position: fixed;
-    z-index: 0;
+    /* position: fixed; */
+    
     /* display: flex; */
     /* justify-items: center; */
 }

@@ -14,7 +14,7 @@ export default function Home() {
 {/* <Image src={imagehome} width={1100}  alt='home banner' /> */}
 {/* <div className={homestyle.imagehome1}> */}
 <p className={homestyle.home_box2}>
-<div className={homestyle.imagehome1}><Image src={imagehome1} alt='home image' width={200} /> </div>
+<div className={homestyle.imagehome1}><Image src={imagehome1} alt='home image' /> </div>
 <p className={homestyle.home_text3}>ANAND<span className={homestyle.namecolor}> SWAMI</span></p>
 <p className={homestyle.home_text4}>I'm a<span className={homestyle.namecolor}> Web Developer</span></p>
 </p> 
