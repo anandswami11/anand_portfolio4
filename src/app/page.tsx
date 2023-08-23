@@ -15,8 +15,8 @@ export default function Home() {
 {/* <div className={homestyle.imagehome1}> */}
 <p className={homestyle.home_box2}>
 <div className={homestyle.imagehome1}><Image src={imagehome1} alt='home image' /> </div>
-<p className={homestyle.home_text3}>ANAND<span className={homestyle.namecolor}> SWAMI</span></p>
-<p className={homestyle.home_text4}>I'm a<span className={homestyle.namecolor}> Web Developer</span></p>
+<p className={homestyle.home_text3}>ANAND<span className='namecolor'> SWAMI</span></p>
+<p className={homestyle.home_text4}>I'm a<span className='namecolor'> Web Developer</span></p>
 </p> 
 
 </div>
